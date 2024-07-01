@@ -17,7 +17,7 @@ Search and Matching: Search for donors based on blood type, location, or other c
 
 Technologies Used Front End: HTML, CSS, JavaScript Bootstrap or any other UI framework Back End: PHP (for server-side logic) MySQL (for database management) Installation
 
-Clone this repository: git clone https://github.com/prakhartripathi22/BLOOD-BANK-AND-DONOR-MANAGEMENT-SYSTEM-.git
+Clone this repository: git clone https://github.com/Aryan1762/Blood-Bank-and-donor-Managment-system-.git
 
 Set up your local development environment (e.g., XAMPP, WAMP, or LAMP). Import the database schema (blood_bank.sql) into your MySQL database. Configure the database connection in config.php. Start your local server and access the application in your browser.
 
